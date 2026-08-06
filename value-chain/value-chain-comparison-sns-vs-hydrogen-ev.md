@@ -1,7 +1,7 @@
 # 가치사슬 비교 분석: 위치기반 SNS vs. 수소 배터리 전기 승용차
 
 > 개별 분석: [위치기반 SNS](value-chain-analysis-location-sns.md) / [수소 전기 승용차](value-chain-analysis-hydrogen-ev.md)
-> 관련 산업구조 분석: [Porter's Five Forces 비교](../porters-five-forces/porters-five-forces-analysis-location-sns-vs-hydrogen-passenger-ev.md)
+> 관련 산업구조 분석: [Porter's Five Forces 비교](../porters-five-forces/porters-five-forces-comparison-location-sns-vs-hydrogen-passenger-ev.md)
 
 ## 1. 각 산업이 집중 분석한 활동
 
@@ -52,7 +52,7 @@ graph LR
 
 - 두 산업 모두 **핵심 투입자원을 소수 외부 공급자에 의존**함 — SNS는 지도 API(구글맵 등 소수 과점), 수소차는 희소금속·연료전지 스택(소수 벤더).
 - 두 산업 모두 **기업 내부 역량만으로는 가치사슬이 완결되지 않음** — SNS는 지도 API 공급사의 정책 변화에, 수소차는 정부의 충전 인프라 투자·보조금 정책에 사업의 지속가능성이 걸려 있음.
-- 이는 [Five Forces 분석](../porters-five-forces/porters-five-forces-analysis-location-sns-vs-hydrogen-passenger-ev.md)에서 두 산업 모두 "대체재 위협"이 가장 큰 리스크 축으로 나타난 것과 같은 맥락 — 가치사슬 내부를 아무리 잘 설계해도, 산업 외부 요인(플랫폼 정책, 정부 정책)이 그 설계의 상한을 결정한다는 점에서 두 분석 프레임워크의 결론이 서로를 보강함.
+- 이는 [Five Forces 분석](../porters-five-forces/porters-five-forces-comparison-location-sns-vs-hydrogen-passenger-ev.md)에서 두 산업 모두 "대체재 위협"이 가장 큰 리스크 축으로 나타난 것과 같은 맥락 — 가치사슬 내부를 아무리 잘 설계해도, 산업 외부 요인(플랫폼 정책, 정부 정책)이 그 설계의 상한을 결정한다는 점에서 두 분석 프레임워크의 결론이 서로를 보강함.
 
 ## 5. 전략적 시사점
 

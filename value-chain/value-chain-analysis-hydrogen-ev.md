@@ -1,6 +1,6 @@
 # 가치사슬 분석: 미래형 수소 배터리 전기 승용차
 
-> 분석 대상: 개인 소비자 대상 수소연료전지 승용차를 제조·판매하는 완성차 업체(가칭 대표 사업자 기준). [Porter's Five Forces 비교](../porters-five-forces/porters-five-forces-analysis-location-sns-vs-hydrogen-passenger-ev.md)에서 다룬 동일 시장을 기업 내부 활동 관점에서 분석.
+> 분석 대상: 개인 소비자 대상 수소연료전지 승용차를 제조·판매하는 완성차 업체(가칭 대표 사업자 기준). [Porter's Five Forces 비교](../porters-five-forces/porters-five-forces-comparison-location-sns-vs-hydrogen-passenger-ev.md)에서 다룬 동일 시장을 기업 내부 활동 관점에서 분석.
 
 ## 분석 우선순위
 
@@ -42,7 +42,7 @@ graph TB
 
 ### 기술 개발 (Technology Development) — 대체재 압력에 대응하는 유일한 내부 레버
 - 연료전지 효율 개선과 **백금 사용량 절감 기술**, 수소 저장 기술이 핵심 R&D 영역.
-- BEV와의 격차(충전시간, 주행거리)를 유지·확대하는 기술 개발이 산업 생존의 전제조건 — [Five Forces 분석](../porters-five-forces/porters-five-forces-analysis-location-sns-vs-hydrogen-passenger-ev.md)에서 지적한 대체재 위협에 대한 직접적 대응.
+- BEV와의 격차(충전시간, 주행거리)를 유지·확대하는 기술 개발이 산업 생존의 전제조건 — [Five Forces 분석](../porters-five-forces/porters-five-forces-comparison-location-sns-vs-hydrogen-passenger-ev.md)에서 지적한 대체재 위협에 대한 직접적 대응.
 - **개선 관점**: R&D 성과가 조달 리스크(백금 의존)와 대체재 경쟁력(BEV 격차) 두 문제를 동시에 완화하는 유일한 지점.
 
 ## 나머지 활동 요약

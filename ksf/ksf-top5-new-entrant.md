@@ -1,6 +1,6 @@
 # 신규 진입자를 위한 Top 5 핵심 성공 요인
 
-> 기반 분석: [Five Forces – 위치기반 SNS vs. 수소 전기 승용차](../porters-five-forces/porters-five-forces-analysis-location-sns-vs-hydrogen-passenger-ev.md) · [가치사슬 – 위치기반 SNS](../value-chain/value-chain-analysis-location-sns.md) · [가치사슬 – 수소 전기 승용차](../value-chain/value-chain-analysis-hydrogen-ev.md)
+> 기반 분석: [Five Forces – 위치기반 SNS vs. 수소 전기 승용차](../porters-five-forces/porters-five-forces-comparison-location-sns-vs-hydrogen-passenger-ev.md) · [가치사슬 – 위치기반 SNS](../value-chain/value-chain-analysis-location-sns.md) · [가치사슬 – 수소 전기 승용차](../value-chain/value-chain-analysis-hydrogen-ev.md)
 > 두 시장의 산업구조와 내부 활동 구조가 근본적으로 다르므로, 신규 진입자가 자원을 집중해야 할 지점도 시장별로 상이하다. 이에 따라 시장별로 Top 5를 각각 제시한다.
 
 ---
