@@ -1,6 +1,6 @@
 # 가치사슬 분석: 위치기반 이미지·숏폼 영상 SNS
 
-> 분석 대상: 사용자의 현재 위치를 중심으로 이미지·숏폼 영상을 노출·공유하는 SNS 서비스(가칭 대표 사업자 기준). [Porter's Five Forces 비교](porters-five-forces-analysis-location-sns-vs-hydrogen-passenger-ev.md)에서 다룬 동일 시장을 기업 내부 활동 관점에서 분석.
+> 분석 대상: 사용자의 현재 위치를 중심으로 이미지·숏폼 영상을 노출·공유하는 SNS 서비스(가칭 대표 사업자 기준). [Porter's Five Forces 비교](../porters-five-forces/porters-five-forces-analysis-location-sns-vs-hydrogen-passenger-ev.md)에서 다룬 동일 시장을 기업 내부 활동 관점에서 분석.
 
 ## 분석 우선순위
 
