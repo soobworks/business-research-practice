@@ -6,6 +6,27 @@
 
 이 산업은 한계비용이 거의 0에 가까운 디지털 서비스라 9개 활동의 비중이 균등하지 않음. **투입·조달 물류(위치 데이터·지도 API 의존), 마케팅 및 영업(로컬 확산 전략), 서비스(프라이버시·안전 대응)** 세 활동에서 원가·리스크·차별화가 집중적으로 발생하므로 이 세 곳을 심층 분석하고, 나머지 활동은 간략히 짚음.
 
+```mermaid
+graph TB
+    subgraph SUPPORT["🏛️ 지원활동"]
+        direction LR
+        FI["🏢 기업 인프라"]
+        HR["👥 인적자원 관리"]
+        TD["🧪 기술 개발"]
+        PR["📦 조달·구매"]
+    end
+    subgraph PRIMARY["⚙️ 주요활동"]
+        direction LR
+        IL["🚚 투입·조달 물류<br/>🔴 심층분석"] --> OP["🏭 운영·생산"] --> OL["📤 산출·배송 물류"] --> MS["📣 마케팅 및 영업<br/>🔴 심층분석"] --> SV["🛠️ 서비스<br/>🔴 심층분석"]
+    end
+    SUPPORT --> PRIMARY
+
+    classDef deep fill:#fecaca,stroke:#b91c1c,color:#7f1d1d,stroke-width:3px;
+    classDef normal fill:#f1f5f9,stroke:#64748b,color:#334155;
+    class IL,MS,SV deep;
+    class OP,OL,FI,HR,TD,PR normal;
+```
+
 ## 심층 분석
 
 ### 투입·조달 물류 (Inbound Logistics) — 원가·의존 리스크의 근원

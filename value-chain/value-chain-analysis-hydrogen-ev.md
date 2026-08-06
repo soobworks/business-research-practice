@@ -6,6 +6,27 @@
 
 이 산업은 물리적 자원과 인프라에 강하게 종속된 사업이라, **투입·조달 물류(희소금속 의존), 산출·배송 물류(충전 인프라 제약), 기술 개발(백금 저감 R&D)** 세 활동에 원가·제약·차별화가 집중됨. 이 세 곳을 심층 분석하고 나머지는 간략히 짚음.
 
+```mermaid
+graph TB
+    subgraph SUPPORT["🏛️ 지원활동"]
+        direction LR
+        FI["🏢 기업 인프라"]
+        HR["👥 인적자원 관리"]
+        TD["🧪 기술 개발<br/>🔴 심층분석"]
+        PR["📦 조달·구매"]
+    end
+    subgraph PRIMARY["⚙️ 주요활동"]
+        direction LR
+        IL["🚚 투입·조달 물류<br/>🔴 심층분석"] --> OP["🏭 운영·생산"] --> OL["📤 산출·배송 물류<br/>🔴 심층분석"] --> MS["📣 마케팅 및 영업"] --> SV["🛠️ 서비스"]
+    end
+    SUPPORT --> PRIMARY
+
+    classDef deep fill:#fecaca,stroke:#b91c1c,color:#7f1d1d,stroke-width:3px;
+    classDef normal fill:#f1f5f9,stroke:#64748b,color:#334155;
+    class IL,OL,TD deep;
+    class OP,MS,SV,FI,HR,PR normal;
+```
+
 ## 심층 분석
 
 ### 투입·조달 물류 (Inbound Logistics) — 원가·지정학 리스크의 근원
