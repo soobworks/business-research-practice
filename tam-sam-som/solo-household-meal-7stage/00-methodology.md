@@ -7,6 +7,10 @@
 
 > TAM, SAM, SOM : "시장 크기를 정량적으로 파악하는 계층적 도식"
 
+![TAM-SAM-SOM 개념도 및 산식](./assets/lecture-tam-sam-som-diagram.webp)
+
+> 위 도식(seerinteractive)의 산식이 이 프로젝트의 [SAM 확정 계산](./08-tam-sam-som-mapping.md)에 실제로 사용된 방법론이다: **SAM = (잠재 고객 수) × (실질적으로 서비스 가능한 비율) × (고객당 평균 지표)**.
+
 | 구분 | 의미 | "SaaS 온라인 비즈니스 컨설팅 시장" 사례의 시장 Breakdown 예시 | 시장 규모 산정을 위한 주요 데이터 출처 |
 | --- | --- | --- | --- |
 | **TAM (Total Addressable Market)** | 전체 시장 규모 — "이론적으로 접근 가능한 전체 수요" | 글로벌 SaaS 비즈니스 컨설팅 시장 | Statista, IBISWorld, Crunchbase |
