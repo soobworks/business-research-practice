@@ -15,6 +15,11 @@
 
 ## 진행 순서 (사용자 지정)
 
-1. 전체 시장(TAM)에 대한 딥리서치
+1. 전체 시장(TAM)에 대한 딥리서치 — [자산관리](./tam-research-personal-asset-management.md) · [배달 플랫폼](./tam-research-solo-household-food-delivery.md)
 2. (후속) SAM 산정
 3. (후속) SOM 산정 및 Market Segment Map
+
+## 심화 진행: 1인 가구 배달 플랫폼 → 7단계 AI 활용 리서치
+
+1인 가구 대상 배달·포장 플랫폼 시장은 이후 **7단계 AI 활용 리서치 전략**(광범위한 탐색 → 범위 축소 → 핵심 원인 분석 → 가설 수립 → 정량적 검증 → 반복적 정제 → 솔루션 구체화)을 적용해 "혼자 한 끼 해결"이라는 문제로 재정의하며 훨씬 깊게 심화되었다.
+자세한 내용은 [`solo-household-meal-7stage/`](./solo-household-meal-7stage/00-methodology.md) 폴더 참고.
