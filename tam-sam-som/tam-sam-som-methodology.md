@@ -15,7 +15,7 @@
 
 ## 진행 순서 (사용자 지정)
 
-1. 전체 시장(TAM)에 대한 딥리서치 — [자산관리](./tam-research-personal-asset-management.md) · [배달 플랫폼](./tam-research-solo-household-food-delivery.md)
+1. 전체 시장(TAM)에 대한 딥리서치 — [배달 플랫폼](./tam-research-solo-household-food-delivery.md)
 2. (후속) SAM 산정
 3. (후속) SOM 산정 및 Market Segment Map
 
